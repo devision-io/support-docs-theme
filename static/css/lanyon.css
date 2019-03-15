@@ -94,6 +94,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
+  display: none;
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
@@ -319,6 +320,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title {
   margin-top: 0;
+  font-size: 26px;
 }
 
 /* Meta data line below post title */
